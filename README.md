@@ -1,7 +1,9 @@
-# Oregon-Trail-re-write
-Terminal ran version of the Oregon Trail video game written in C++.
+# Oregon Trail Re-Write
+This is a terminal ran version of the Oregon Trail video game written in C++ for my final project for my intro to computer science cource at CU Boulder. The provided file is a Unix Executable File. You should be able to try it out on Linux or Mac operating systems.
 
 To run:
-1. Download zip file.
-2. From directory where zip is downloaded, open a terminal window, or include path when running a command.
-3. Run the command "./" followed by the name of the file to run the game.
+```
+git clone https://github.com/prestonwindfeldt/Oregon-Trail-re-write.git
+cd Oregon-Trail-re-write
+./OregonTrailRe-Write
+```
