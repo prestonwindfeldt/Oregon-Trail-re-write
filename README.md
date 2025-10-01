@@ -1,5 +1,5 @@
 # Oregon Trail Re-Write
-This is a terminal ran version of the Oregon Trail video game written in C++ for my final project for my intro to computer science cource at CU Boulder. The provided file is a Unix Executable File. You should be able to try it out on Linux or Mac operating systems.
+This is a terminal ran version of the Oregon Trail video game. This was my final project for CSCI 1300 at CU Boulder. The code was written in C++ and the provided file is a Unix Executable File compiled from that code. You should be able to try it out on Linux or Mac operating systems.
 
 To run:
 ```
